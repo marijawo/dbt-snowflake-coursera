@@ -3,3 +3,6 @@
 target/
 dbt_packages/
 logs/
+.idea/
+dbt.exe
+.idea/workspace.xm
